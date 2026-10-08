@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Thulasi Naga Jyothi 👋
 
-<!--
-**ThulasiNagaJyothi/ThulasiNagaJyothi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE undergraduate passionate about VLSI, embedded systems, and software development.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Programming:** Python, C, Embedded C++
+- **Core Areas:**Digital Electronics, VLSI, Embedded Systems
+- **Computer Science:** Basics of Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Data Structures & Algorithms
+- Digital Electronics
+- VLSI Fundamentals
+- Web Technologies for Creating Projects
+
+## 🚀 Projects
+- **RFID Smart Billing Trolley** — An RFID-based smart shopping trolley designed to automate product identification and billing.
+
+## 🎓 Education
+**B.Tech in Electronics and Communication Engineering (ECE)**  
+Vignan's Lara Institute of Technology and Science  
+III Year | V Semester | Expected Graduation: 2028
+
+## 💻 Coding
+- Practicing Python and Data Structures & Algorithms
+- Solving problems on LeetCode
+
+## 🤝 Soft Skills
+- Communication
+- Problem Solving
+- Teamwork
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yarra-thulasi-naga-jyothi-8b8451320/)
+- 📧 Email: thulasinagajyothi@gmail.com
+
+
